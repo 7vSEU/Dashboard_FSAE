@@ -1,6 +1,0 @@
-SDA 03
-SCK 02
-RES 06
-DC  11
-CS  07
-User_Setup.h 文件夹内解注释原引脚，切换为ESP32部分
