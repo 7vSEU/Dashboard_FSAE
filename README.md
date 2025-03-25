@@ -1,2 +1,3 @@
 # Dashboard_FSAE
-一套车辆仪表程序，适用于FSAEE
+Created by 7v.
+Developed with ESP32C3
