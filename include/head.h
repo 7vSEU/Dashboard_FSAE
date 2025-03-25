@@ -1,1 +1,0 @@
-#define gpio 11
