@@ -1,0 +1,14 @@
+../Drivers/ST7796/st7796.c:4:13:LCD_Reset	1
+../Drivers/ST7796/st7796.c:93:6:LCD_WriteCmd	1
+../Drivers/ST7796/st7796.c:102:6:LCD_WriteData	1
+../Drivers/ST7796/st7796.c:111:6:LCD_SetWindow	1
+../Drivers/ST7796/st7796.c:129:6:LCD_Fill	2
+../Drivers/ST7796/st7796.c:143:6:LCD_FillScreen	1
+../Drivers/ST7796/st7796.c:148:6:LCD_DrawPoint	3
+../Drivers/ST7796/st7796.c:164:6:LCD_DrawLine	7
+../Drivers/ST7796/st7796.c:198:6:LCD_DrawRectangle	2
+../Drivers/ST7796/st7796.c:216:6:LCD_DrawCircle	5
+../Drivers/ST7796/st7796.c:262:6:LCD_DrawChar	9
+../Drivers/ST7796/st7796.c:312:6:LCD_DrawString	4
+../Drivers/ST7796/st7796.c:340:6:LCD_DrawCharHex	2
+../Drivers/ST7796/st7796.c:347:6:LCD_Init	1
