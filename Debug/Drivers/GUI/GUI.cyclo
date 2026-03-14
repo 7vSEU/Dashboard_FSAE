@@ -1,0 +1,16 @@
+../Drivers/GUI/GUI.c:13:6:GUI_Refresh	2
+../Drivers/GUI/GUI.c:35:6:User_input	1
+../Drivers/GUI/GUI.c:40:6:Show_SC	16
+../Drivers/GUI/GUI.c:68:6:Show_Speed	5
+../Drivers/GUI/GUI.c:91:6:Show_CAN_unit	2
+../Drivers/GUI/GUI.c:109:6:Show_Pedal	10
+../Drivers/GUI/GUI.c:155:8:SC_adc_to_int	1
+../Drivers/GUI/GUI.c:162:6:Show_Unreliable	5
+../Drivers/GUI/GUI.c:178:6:Show_Hex_Figure	1
+../Drivers/GUI/GUI.c:187:6:Show_Hex_In_Dec	1
+../Drivers/GUI/GUI.c:199:6:Show_G_Force	2
+../Drivers/GUI/GUI.c:208:6:Show_Mincell	6
+../Drivers/GUI/GUI.c:220:6:Show_BatVoltage	6
+../Drivers/GUI/GUI.c:233:6:Show_InverterErr	9
+../Drivers/GUI/GUI.c:257:6:Show_LV_BatVolt	6
+../Drivers/GUI/GUI.c:272:6:Show_Oil_Pressure	9
